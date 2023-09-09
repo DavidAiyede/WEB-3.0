@@ -16,7 +16,7 @@ function show(){
     body.style.transition = ".3s"
 }
 function close(){
-    mainMenu.style.top = "-200%"
+    mainMenu.style.top = "-300%"
     body.style.backgroundColor = "white"
     body.style.transition = ".3s"
 }
