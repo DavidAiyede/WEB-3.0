@@ -137,22 +137,16 @@ footer img {
     height: 100vh;
     width: 60%;
     position: fixed;
-    top: 0;
-    right: 0;
-    z-index: 10;
+    right:0;
     flex-direction: column;
     justify-content: center;
     row-gap: 2rem;
     transition:top .3s ease-in-out;
     background-color: var(--Off-white);
     display: none;
-    padding-left: 8%;
+    padding-left: 9%;
     padding-bottom:20%;
     font-size: larger;
-    -webkit-transition:top .3s ease-in-out;
-    -moz-transition:top .3s ease-in-out;
-    -ms-transition:top .3s ease-in-out;
-    -o-transition:top .3s ease-in-out;
 }
   header .mainMenu .closeMenu{
     display: block;
