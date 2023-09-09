@@ -141,7 +141,6 @@ footer img {
     flex-direction: column;
     justify-content: center;
     row-gap: 2rem;
-    transition:top .3s ease-in-out;
     background-color: var(--Off-white);
     display: none;
     padding-left: 9%;
